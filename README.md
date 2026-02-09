@@ -1,4 +1,3 @@
-# 🤖 AIgent - Agente Motivacional
 ## 📝 Descrição
 
 Este projeto é um servidor Express que se comunica com a API da OpenAI (GPT-4) para gerar mensagens motivacionais personalizadas. O agente entende múltiplos idiomas e responde de forma empática ao estado emocional do usuário.
