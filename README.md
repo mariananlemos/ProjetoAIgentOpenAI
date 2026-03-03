@@ -1,32 +1,32 @@
-## 📝 Descrição
+## Description
 
-Este projeto é um servidor Express que se comunica com a API da OpenAI para gerar mensagens motivacionais personalizadas. O agente entende múltiplos idiomas e responde de forma empática ao estado emocional do usuário.
+This project is an Express server that communicates with the OpenAI API to generate personalized motivational messages. The agent understands multiple languages and responds empathetically to the user's emotional state.
 
-## 🚀 Funcionalidades
+## Features
 
-- Interface web simples e intuitiva
-- Comunicação com GPT-5 da OpenAI
-- Suporte multilíngue (português, inglês, etc.)
-- Respostas motivacionais personalizadas
-- Servidor Express com API REST
+- Simple and intuitive web interface  
+- Communication with OpenAI GPT-5  
+- Multilingual support (Portuguese, English, etc.)  
+- Personalized motivational responses  
+- Express server with REST API  
 
-## 🛠️ Tecnologias
+## Technologies
 
-- **Node.js** - Runtime JavaScript
-- **Express** - Framework web
-- **Axios** - Cliente HTTP
-- **dotenv** - Gerenciamento de variáveis de ambiente
-- **OpenAI API** - Modelo GPT-4
+- **Node.js** - JavaScript runtime  
+- **Express** - Web framework  
+- **Axios** - HTTP client  
+- **dotenv** - Environment variable management  
+- **OpenAI API** - GPT-4 model  
 
-## 📁 Estrutura do Projeto
+## Project Structure
 
 ```
 aigent/
-├── index.js          # Servidor Express
-├── package.json      # Dependências
-├── .env.example      # Template de configuração
-├── .gitignore        # Arquivos ignorados
-└── public/           # Arquivos estáticos
+├── index.js          # Express server
+├── package.json      # Dependencies
+├── .env.example      # Configuration template
+├── .gitignore        # Ignored files
+└── public/           # Static files
     ├── index.html
     └── script.js
 ```
